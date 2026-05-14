@@ -26,3 +26,4 @@ E:\Store\TrickingLibrary\TrickingLibarary.Api\obj\Debug\net10.0\refint\TrickingL
 E:\Store\TrickingLibrary\TrickingLibarary.Api\obj\Debug\net10.0\TrickingLibarary.Api.pdb
 E:\Store\TrickingLibrary\TrickingLibarary.Api\obj\Debug\net10.0\TrickingLibarary.Api.genruntimeconfig.cache
 E:\Store\TrickingLibrary\TrickingLibarary.Api\obj\Debug\net10.0\ref\TrickingLibarary.Api.dll
+E:\Store\TrickingLibrary\TrickingLibarary.Api\obj\Debug\net10.0\TrickingLibarary.Api.sourcelink.json
